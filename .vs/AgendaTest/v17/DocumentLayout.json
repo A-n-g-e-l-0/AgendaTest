@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\10039538\\source\\repos\\AgendaTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|c:\\users\\10039538\\source\\repos\\agendatest\\modelos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|solutionrelative:modelos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|c:\\users\\10039538\\source\\repos\\agendatest\\controllers\\agendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|solutionrelative:controllers\\agendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|c:\\users\\10039538\\source\\repos\\agendatest\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\10039538\\source\\repos\\AgendaTest\\Modelos\\Persona.cs",
+              "RelativeDocumentMoniker": "Modelos\\Persona.cs",
+              "ToolTip": "C:\\Users\\10039538\\source\\repos\\AgendaTest\\Modelos\\Persona.cs",
+              "RelativeToolTip": "Modelos\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:33:12.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgendaController.cs",
+              "DocumentMoniker": "C:\\Users\\10039538\\source\\repos\\AgendaTest\\Controllers\\AgendaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AgendaController.cs",
+              "ToolTip": "C:\\Users\\10039538\\source\\repos\\AgendaTest\\Controllers\\AgendaController.cs",
+              "RelativeToolTip": "Controllers\\AgendaController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:25:52.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\10039538\\source\\repos\\AgendaTest\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\10039538\\source\\repos\\AgendaTest\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:25:19.474Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 341,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
