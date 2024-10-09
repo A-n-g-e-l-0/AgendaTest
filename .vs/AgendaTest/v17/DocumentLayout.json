@@ -1,17 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\10039538\\source\\repos\\AgendaTest\\",
+  "WorkspaceRootPath": "C:\\repos\\AgendaTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|c:\\users\\10039538\\source\\repos\\agendatest\\modelos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|c:\\repos\\agendatest\\controllers\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|solutionrelative:controllers\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\repos\\AgendaTest\\Migrations\\20241009051854_AddPersonIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241009051854_AddPersonIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|c:\\repos\\agendatest\\context\\personascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|solutionrelative:context\\personascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|c:\\repos\\agendatest\\modelos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|solutionrelative:modelos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|c:\\users\\10039538\\source\\repos\\agendatest\\controllers\\agendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|solutionrelative:controllers\\agendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|c:\\repos\\agendatest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|c:\\users\\10039538\\source\\repos\\agendatest\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|c:\\repos\\agendatest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|c:\\repos\\agendatest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|c:\\repos\\agendatest\\agendatest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|solutionrelative:agendatest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|c:\\repos\\agendatest\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|c:\\repos\\agendatest\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC4B42C1-B95A-4F10-B194-92F86B58FC8E}|AgendaTest.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,40 +62,133 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241009051854_AddPersonIdentity.cs",
+              "DocumentMoniker": "C:\\repos\\AgendaTest\\Migrations\\20241009051854_AddPersonIdentity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241009051854_AddPersonIdentity.cs",
+              "ToolTip": "C:\\repos\\AgendaTest\\Migrations\\20241009051854_AddPersonIdentity.cs",
+              "RelativeToolTip": "Migrations\\20241009051854_AddPersonIdentity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:18:55.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Personas.cs",
+              "DocumentMoniker": "C:\\repos\\AgendaTest\\Controllers\\Personas.cs",
+              "RelativeDocumentMoniker": "Controllers\\Personas.cs",
+              "ToolTip": "C:\\repos\\AgendaTest\\Controllers\\Personas.cs",
+              "RelativeToolTip": "Controllers\\Personas.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T02:43:43.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgendaTest",
+              "DocumentMoniker": "C:\\repos\\AgendaTest\\AgendaTest.csproj",
+              "RelativeDocumentMoniker": "AgendaTest.csproj",
+              "ToolTip": "C:\\repos\\AgendaTest\\AgendaTest.csproj",
+              "RelativeToolTip": "AgendaTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T02:26:41.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\repos\\AgendaTest\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\repos\\AgendaTest\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T22:59:26.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonasContext.cs",
+              "DocumentMoniker": "C:\\repos\\AgendaTest\\Context\\PersonasContext.cs",
+              "RelativeDocumentMoniker": "Context\\PersonasContext.cs",
+              "ToolTip": "C:\\repos\\AgendaTest\\Context\\PersonasContext.cs",
+              "RelativeToolTip": "Context\\PersonasContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:58:28.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\repos\\AgendaTest\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\repos\\AgendaTest\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:57:46.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\repos\\AgendaTest\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\repos\\AgendaTest\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T22:57:36.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repos\\AgendaTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\repos\\AgendaTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:55:37.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\10039538\\source\\repos\\AgendaTest\\Modelos\\Persona.cs",
+              "DocumentMoniker": "C:\\repos\\AgendaTest\\Modelos\\Persona.cs",
               "RelativeDocumentMoniker": "Modelos\\Persona.cs",
-              "ToolTip": "C:\\Users\\10039538\\source\\repos\\AgendaTest\\Modelos\\Persona.cs",
+              "ToolTip": "C:\\repos\\AgendaTest\\Modelos\\Persona.cs",
               "RelativeToolTip": "Modelos\\Persona.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T22:33:12.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AgendaController.cs",
-              "DocumentMoniker": "C:\\Users\\10039538\\source\\repos\\AgendaTest\\Controllers\\AgendaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AgendaController.cs",
-              "ToolTip": "C:\\Users\\10039538\\source\\repos\\AgendaTest\\Controllers\\AgendaController.cs",
-              "RelativeToolTip": "Controllers\\AgendaController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCQAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T22:25:52.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\10039538\\source\\repos\\AgendaTest\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\repos\\AgendaTest\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\10039538\\source\\repos\\AgendaTest\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\repos\\AgendaTest\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T22:25:19.474Z"
+              "WhenOpened": "2024-10-08T22:25:19.474Z",
+              "EditorCaption": ""
             }
           ]
         },

@@ -1,4 +1,24 @@
+using AgendaTest.Context;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
+
+// Add services to the container.
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAllOrigins",
+        builder =>
+        {
+            builder.AllowAnyOrigin() // Allows all origins
+                   .AllowAnyMethod() // Allows all HTTP methods
+                   .AllowAnyHeader(); // Allows all headers
+        });
+});
+
+// Configurar la conexión a PostgreSQL
+builder.Services.AddDbContext<PersonasContext>(options =>
+    options.UseNpgsql(builder.Configuration.GetConnectionString("PostgreSqlConnection")));
+
 
 // Add services to the container.
 
@@ -17,6 +37,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseCors("AllowAllOrigins");
 
 app.UseAuthorization();
 
